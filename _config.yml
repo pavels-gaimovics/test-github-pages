@@ -1,9 +1,2 @@
-plugins:
-  - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
-include:
-  - ABOUT.md
-  - README.md
+markdown: kramdown
 theme: minima
