@@ -1,6 +1,6 @@
 # Git, GitHub
 
-# Agenda
+## Agenda
 1. What is versioning?
 2. Why we use them?
 3. What is Git, Svn and Mercury?
@@ -18,13 +18,20 @@ You get into situation when you have many folders with partly working project an
 
 Okay, maybe you are a other type of person, what holds only one folder... With comments.
 
-![Your beutiful code](/test-github-pages/assets/images/terrible-comments.png)
+![Your beutiful code](/test-github-pages/assets/images/terrible-comments.jpg)
 
 But again it is not best way to review *history of changes*
 
 
 Let's imagine other situation, you working not alone, but with your classmate Tom. Tom is a nice guy, have some experience in programming, but Tom not know what kind of person you really are... You both modified same files and now somone need to *merge changes* together. You even don't know how many line of code Tom changed...
 
-![You with bestie](/test-github-pages/assets/images/pr-approve.png)
+![You with bestie](/test-github-pages/assets/images/pr-approve.jpg)
 
-It could very awesome if you could get some backstory for Tom codelines, like short *explanation* for code blocks or classes what added to project? Maybe, world is in need for this feature and only you can help! But before you start, let's assume you, what this kind of tools already exists. And one of them
+It could very awesome if you could get some backstory for Tom codelines, like short *explanation* for code blocks or classes what added to project? Maybe, world is in need for this feature and only you can help! But before you start, let's assume you, what this kind of tools already exists. Like GIT, SVN and Mercury.
+
+
+TODO:
+Example for git history.
+Example for git commits.
+Example for branching?
+What is github?
