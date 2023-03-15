@@ -38,7 +38,16 @@ Git allow use to
 4. Return back old code by reverting commit
 5. Search code parts in commits history even if this code not present in project.
 
+## What is Github?
+
 Another service what help us to develop projects is Github. Website where you can place your code for public use, what allows all developers to access it and modify.
+
+All popular open source projects are holding there:
+[Rails](https://github.com/rails/rails)
+[Vue](https://github.com/vuejs)
+[Hanami](https://github.com/hanami/hanami)
+
 Git + Github are developer most basic things to know.
 These tools eases developer daily routine.
+
 You will know them better in next sections.
