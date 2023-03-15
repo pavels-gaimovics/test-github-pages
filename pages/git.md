@@ -1,10 +1,6 @@
 # Git, GitHub
 
-## Agenda
-1. What is versioning?
-2. Why we use them?
-3. What is Git, Svn and Mercury?
-4. What is github?
+## What is versioning?
 
 Hello, friend! I assume you already know programming basics and even use some kind of versioning, but not know about it.
 In this section you will get acquainted with Git, Github, Merge requests and how we do this in Mitigate way.
@@ -24,6 +20,8 @@ But again it is not best way to review *history of changes*
 Let's imagine other situation, you working not alone, but with your classmate Tom. Tom is a nice guy, have some experience in programming, but Tom not know what kind of person you really are... You both modified same files and now someone need to *merge changes* together. You even don't know how many line of code Tom changed...
 
 ![You with bestie](/test-github-pages/assets/images/pr-approve.jpg)
+
+## What is Git, Svn and Mercury?
 
 It could be very awesome if you could get some backstory for Tom code lines, like short *explanation* for code blocks or classes what added to project. Maybe, world is in need for this feature and only you can help! But before you start making plans, let's assume you, what this kind of tools already exists. Like GIT, SVN and Mercury.
 
