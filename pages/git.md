@@ -27,11 +27,20 @@ Let's imagine other situation, you working not alone, but with your classmate To
 
 ![You with bestie](/test-github-pages/assets/images/pr-approve.jpg)
 
-It could very awesome if you could get some backstory for Tom codelines, like short *explanation* for code blocks or classes what added to project? Maybe, world is in need for this feature and only you can help! But before you start, let's assume you, what this kind of tools already exists. Like GIT, SVN and Mercury.
+It could be very awesome if you could get some backstory for Tom codelines, like short *explanation* for code blocks or classes what added to project. Maybe, world is in need for this feature and only you can help! But before you start making plans, let's assume you, what this kind of tools already exists. Like GIT, SVN and Mercury.
 
+We don't have your classmate Tom at work, but we have +5 developers per one project and each one generating or changing code on daily basis. Usually we use Git in our projects.
 
-TODO:
-Example for git history.
-Example for git commits.
-Example for branching?
-What is github?
+Git allow use to
+1. List history of changes (even for one file)
+![Commits list](/test-github-pages/assets/images/good-commits-example.png)
+2. Review changed code, author and date
+![Commit](/test-github-pages/assets/images/commit-changes.png)
+3. Make separate branches (like project versions) and merge them together
+4. Return back old code by reverting commit
+5. Search code parts in commits history even if this code not present in project.
+
+Another service what help us to develop projects is Github. Website where you can place your code for public use, what allows all developers to access it and modify.
+Git + Github are developer most basic things to know.
+These tools eases developer daily routine.
+You will know them better in next sections.
