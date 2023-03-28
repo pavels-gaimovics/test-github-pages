@@ -1,6 +1,4 @@
-# Git, GitHub
-
-## What is versioning?
+# What is versioning?
 
 Hello, friend! I assume you already know programming basics and even use some kind of versioning, but not know about it.
 In this section you will get acquainted with Git, Github, Merge requests and how we do this in Mitigate way.
@@ -21,7 +19,7 @@ Let's imagine other situation, you working not alone, but with your classmate To
 
 ![You with bestie](/test-github-pages/assets/images/pr-approve.jpg)
 
-## What is Git, Svn and Mercury?
+# What is Git, Svn and Mercury?
 
 It could be very awesome if you could get some backstory for Tom code lines, like short *explanation* for code blocks or classes what added to project. Maybe, world is in need for this feature and only you can help! But before you start making plans, let's assume you, what this kind of tools already exists. Like GIT, SVN and Mercury.
 
@@ -36,7 +34,7 @@ Git allow use to
 4. Return back old code by reverting commit
 5. Search code parts in commits history even if this code not present in project.
 
-## What is Github?
+# What is Github?
 
 Another service what help us to develop projects is Github. Website where you can place your code for public use, what allows all developers to access it and modify.
 
