@@ -39,6 +39,6 @@ When browser make request, he even can say web server what he planing to do.
 - DELETE - deletes the specified resource
 - OPTIONS - describes the communication options for the target resource
 - CONNECT - is used to start a two-way communications (a tunnel) with the requested resource
--TRACE - is used to perform a message loop-back test that tests the path for the target resource (useful for debugging purposes)
+- TRACE - is used to perform a message loop-back test that tests the path for the target resource (useful for debugging purposes)
 
 But most popular what use Rails are: GET, POST, PUT/PATCH and DELETE
