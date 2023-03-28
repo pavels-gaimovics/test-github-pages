@@ -1,2 +1,4 @@
 - [About](pages/about.html)
 - [Sql](pages/sql.html)
+- [Git](pages/git.html)
+- [Api](pages/api.html)

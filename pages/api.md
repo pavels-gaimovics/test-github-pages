@@ -1,1 +1,1 @@
-[How portals work](/api/how-portals-work.md)
+[How portals work](pages/api/how-portals-work.html)
