@@ -31,14 +31,14 @@ You can check it in your browser.
 
 When browser make request, he even can say web server what he planing to do.
 
-GET - is used to request data from a specified resource
-POST - is used to send data to a server to create/update a resource
-PUT - is used to send data to a server to create/update a resource
-PATCH - is used to apply partial modifications to a resource
-HEAD -  is almost identical to GET, but without the response body
-DELETE - deletes the specified resource
-OPTIONS - describes the communication options for the target resource
-CONNECT - is used to start a two-way communications (a tunnel) with the requested resource
-TRACE - is used to perform a message loop-back test that tests the path for the target resource (useful for debugging purposes)
+- GET - is used to request data from a specified resource
+- POST - is used to send data to a server to create/update a resource
+- PUT - is used to send data to a server to create/update a resource
+- PATCH - is used to apply partial modifications to a resource
+- HEAD -  is almost identical to GET, but without the response body
+- DELETE - deletes the specified resource
+- OPTIONS - describes the communication options for the target resource
+- CONNECT - is used to start a two-way communications (a tunnel) with the requested resource
+-TRACE - is used to perform a message loop-back test that tests the path for the target resource (useful for debugging purposes)
 
 But most popular what use Rails are: GET, POST, PUT/PATCH and DELETE
